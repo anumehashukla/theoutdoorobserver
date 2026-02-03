@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Easy Hikes'
-date: 2024-03-08 11:00:00
+date: 2026-02-02 11:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your hiking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -52,7 +52,7 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1B66udruawoYj9ZbjHlQEP8OstAR0J2kn" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1pS8e6b9YPybjykhYUI_awLLjO7njlso&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 <br><br>
 
@@ -382,6 +382,6 @@ Excellent trail—highly recommend catching the sunrise.<br><br>
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1B66udruawoYj9ZbjHlQEP8OstAR0J2kn" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1pS8e6b9YPybjykhYUI_awLLjO7njlso&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 <br>
