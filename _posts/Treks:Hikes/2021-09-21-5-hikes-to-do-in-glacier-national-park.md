@@ -1,6 +1,6 @@
 ---
 title: '5 hikes not to miss in Glacier National Park'
-date: 2023-09-13 10:00:00
+date: 2026-02-02 10:00:00
 description:
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/treks-hikes/glaciernationalparkhikethumbnail.jpg'
 categories: [treks-hikes, unitedstates]
@@ -101,7 +101,7 @@ It's short, well-marked and accessible trail which offers a delightful escape in
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
 <p class="responsive-iframe-container">
-  <iframe iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1wQ_lNdrgRTjEe0UMPRst12LS-zD4DTmu" width="640" height="480"></iframe>
+  <iframe iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1pFtpOhr3ov58034LLiLM75tI1BqPaPg&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 <br>
 
