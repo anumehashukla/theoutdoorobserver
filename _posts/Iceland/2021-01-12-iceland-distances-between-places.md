@@ -1,6 +1,6 @@
 ---
 title: 'Distances between major attractions in Iceland'
-date: 2023-01-24 07:10:00
+date: 2026-02-02 07:10:00
 description: Iceland is big, and with an overwhelming amount of places to visit, it could be hard to plan and organize things. The following chart outlines the distances and time to drive between all the lookout points in Iceland. This will help you plan, optimize, and save time on your journey.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/icelandblog.jpg'
 categories: iceland
@@ -51,7 +51,7 @@ This will help you plan, optimize, and save time on your journey.
 
 *Below is an interactive map of major attractions along ring road and daywise itinerary. Expand the Legend on the left for all details.*<br>
 <p class="responsive-iframe-container">
-<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=17bYm2RKOqlQlIMKGopcZYNWiimCWmGqY" width="640" height="480"></iframe>
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1IV9Z6tjCxf22KAFkZmJVLC3RLcQnlGA&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 
 <br/>
