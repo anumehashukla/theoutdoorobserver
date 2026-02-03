@@ -1,6 +1,6 @@
 ---
 title: 'Camping Ring Road'
-date: 2023-01-24 09:10:00
+date: 2026-02-02 09:10:00
 description: Wild Camping has been banned in Iceland since 2015, please spend the night on  a camgound only. Also, the advantage of sleeping in a campground is you a get tons of facilities - restrooms, showers, kitchen etc. No need to book any site in advance. No need to book any site in advance.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/campingiceland.jpg'
 categories: iceland
@@ -13,7 +13,7 @@ Here are some of my favorite campgrounds along the ring road.<br><br>
 
 *Expand the Legend on the left for all details*
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1PVyOyAeYezIacaLzIuhx9ISVXA11Rjc_" width="1200" height="800"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1mefp_MGPpCRhfwi_5OCZBFGPh6Jg2J0&ehbc=2E312F" width="1200" height="800"></iframe>
 </p>
 
 ## Day 1 Skjol Campground
