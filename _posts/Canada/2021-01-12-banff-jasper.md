@@ -1,6 +1,6 @@
 ---
 title: 'Banff National Park'
-date: 2023-01-24 11:20:00
+date: 2026-02-02 11:20:00
 description: The beautiful blue hues of the lakes in Canadian Rockies are too good too believe, that they are often accused of being subject to human tampering. When Canadian-Pacific Railway was attracting tourists from all over the world in 1890’s to compete with the beauty of the Alps, they were accused of achieving such hues by adding dye to the lakes or by painting the lake beds as it looks too beautiful to be real. Welcome to Banff !!
 featured_image: '/images/canada/peyto.jpg'
 categories: canada
@@ -32,7 +32,7 @@ If you’re looking for the best weather, it’s undeniable that the best months
 
 Expand the Legend on the left for all details
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1unYNtzAFLw_WEP9Eh3HRHXd8KAswAlU-" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1hRicgfOdl5XP9Kaik_h68iIFspLRUUY&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 
 <br>

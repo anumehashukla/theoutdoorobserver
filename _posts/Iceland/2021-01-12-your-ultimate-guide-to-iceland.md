@@ -1,6 +1,6 @@
 ---
 title: 'Your Ultimate Guide to Iceland'
-date: 2023-01-24 10:10:00
+date: 2026-02-02 10:10:00
 description: Traveling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? I am sharing our experience-based suggestions and itinerary ideas for ten days in this post.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/ultimateguidetoiceland.jpg'
 categories: iceland
@@ -81,7 +81,7 @@ Many rental car companies give a discount tag that works at one of these station
 *Below is an interactive map of significant Gas Stations in Iceland. Expand the Legend on the left for all details.*
 
 <p class="responsive-iframe-container">
-<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1QuxJ4CXOhQZyrg0ZRJYzzsIiPaxsYhU2" width="640" height="480"></iframe>
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=14OYhR-ITemxOHBXL3PeV36VZAdW-SpA&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 
 
@@ -150,7 +150,7 @@ Gas Stations across Iceland also have small grocery stores(sometimes bigger ones
 
 
 <p class="responsive-iframe-container">
-<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1CmKw7S0yQgXlCdYIwGxQgka6tYwE5uQ8" width="640" height="480"></iframe>
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1v2UmDIyyXA9abFAGgbnTZNO7nof9J88&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 
 ## Electrical Outlets
@@ -200,7 +200,7 @@ Síminn has the best coverage.
 
 Okay, this is the best one, so Iceland is Ísland in Icelandic and is pronounced as eess-land.
 
-Also, you will find many places ending in Foss; Foss is a waterfall in Icelandic.
+Also, you will find many places ending in Foss; Foss is waterfall in Icelandic.
 
 <br>
 
@@ -208,5 +208,5 @@ Also, you will find many places ending in Foss; Foss is a waterfall in Icelandic
 *Below is an interactive map of major attractions, campgrounds, and gas stations supermarkets in Iceland. Expand the Legend on the left for all details.*
 
 <p class="responsive-iframe-container">
-<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1T_pbLh2G0ejBgu1YzuRaNc2pJl_0NvKs" width="640" height="480"></iframe>
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=16vqvmcW1jZTb3tBqlSVI2X2I85FUP9E&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
