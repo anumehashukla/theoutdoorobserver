@@ -1,6 +1,6 @@
 ---
 title: 'Best stargazing sites in California'
-date: 2022-04-01 11:02:00
+date: 2026-02-02 11:02:00
 description: Darkest sites in California.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/stargazingCalifornia.jpg'
 categories: astronomy
@@ -38,6 +38,6 @@ categories: astronomy
 *Expand the Legend on the left for all details*
 {: id="stargazingMap"}
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1oZWbP2A2m3Cu-n6UGQIHbf8t0YQMiwOc" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1kYZAuChf4h6gz5wUtXBRl4mcI1kWcyw&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 <br>
