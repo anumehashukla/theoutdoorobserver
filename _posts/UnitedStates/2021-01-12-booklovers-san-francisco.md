@@ -1,6 +1,6 @@
 ---
 title: 'Booklovers in San Francisco'
-date: 2023-01-24 11:50:00
+date: 2026-02-02 11:50:00
 description: You said that we owe literature almost everything we are and what we have been. If books disappear, history will disappear, and human beings will also disappear. I am sure you are right. Books are not only the arbitrary sum of our dreams, and our memory.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bookloverssfthumbnail.jpg'
 categories: unitedstates
@@ -21,7 +21,7 @@ In exploring San Francisco, I have found these fantastic places for Booklovers. 
 
 *<b>Expand the Legend on the left for details</b>*
 <p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1YqXk7Q26Fs-DABFLXxtfA5xi05yjmOE8" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1ZezPe-vTpm7kxX2H5lRmhC0FhCibUvw&ehbc=2E312F" width="640" height="480"></iframe>
 </p>
 <br>
 
