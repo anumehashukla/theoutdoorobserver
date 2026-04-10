@@ -1,12 +1,12 @@
 ---
 title: 'Nazca Lines'
-date: 2023-01-24 11:30:00
+date: 2026-04-09 11:30:00
 description: I feel that while growing up, whenever I turned on the History channel, almost every other of their shows talked about the most enigmatic ancient drawings in the world - the Nazca lines. (Ancient Alien's every episode virtually had at least one reference of these). It feels like I have known these lines since forever. Watching them for years on TV, I felt a deep longing to see them in person. And 2019 turned out to be quite a year of Geoglyphs. We were able to see the Nazca Lines in Peru, Blythe Intaglios in California, and numerous geoglyphs in Chile's Atacama desert.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/peru/nazcalinesThumbnail.jpg'
 categories: peru
 ---
 
-I feel that while growing up, whenever I turned on the History channel, almost every other of their shows talked about the most enigmatic ancient drawings in the world - the Nazca lines. (Ancient Alien's every episode virtually had at least one reference of these). It feels like I have known these lines since forever. Watching them for years on TV, I felt a deep longing to see them in person. And 2019 turned out to be quite an year of Geoglyphs. We were able to see the Nazca Lines in Peru, Blythe Intaglios in California, and numerous geoglyphs in [Chile's Atacama desert.](https://wayfaringuniverse.com/chile/atacama-giant)
+I feel that while growing up, whenever I turned on the History channel, almost every other of their shows talked about the most enigmatic ancient drawings in the world - the Nazca lines. (Ancient Alien's every episode virtually had at least one reference of these). It feels like I have known these lines since forever. Watching them for years on TV, I felt a deep longing to see them in person. And 2019 turned out to be quite an year of Geoglyphs. We were able to see the Nazca Lines in Peru, Blythe Intaglios in California, and numerous geoglyphs in [Chile's Atacama desert.](https://theoutdoorobserver.com/chile/atacama-giant)
 <br><br>
 ***Here is a small video that we created of the lines. Trying our best not to move the camera too much.*** <br>
 
