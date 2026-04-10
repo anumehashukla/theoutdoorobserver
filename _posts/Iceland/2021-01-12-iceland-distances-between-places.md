@@ -1,6 +1,6 @@
 ---
-title: 'Distances between major attractions in Iceland'
-date: 2026-02-02 07:10:00
+title: 'Driving Distances in Iceland: How Far Between Major Stops?'
+date: 2026-04-09 07:10:00
 description: Iceland is big, and with an overwhelming amount of places to visit, it could be hard to plan and organize things. The following chart outlines the distances and time to drive between all the lookout points in Iceland. This will help you plan, optimize, and save time on your journey.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/icelandblog.jpg'
 categories: iceland
