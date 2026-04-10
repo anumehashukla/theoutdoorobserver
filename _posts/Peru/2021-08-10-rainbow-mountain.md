@@ -6,7 +6,7 @@ featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thum
 categories: peru
 ---
 
-Few places in the world capture the imagination of spirited adventure more than Peru. This Southern Hemisphere frontier is famous for the heritage of Machu Pichu's cultural treasures, the uniqueness of its [geoglyphs of Nazca](https://wayfaringuniverse.com/peru/nazca-lines), and the charming, friendly hospitality of its people. One such place in Peru is the Rainbow Mountain or Vinicunca, as the locals like to call it. <br>
+Few places in the world capture the imagination of spirited adventure more than Peru. This Southern Hemisphere frontier is famous for the heritage of Machu Pichu's cultural treasures, the uniqueness of its [geoglyphs of Nazca](https://theoutdoorobserver.com/peru/nazca-lines), and the charming, friendly hospitality of its people. One such place in Peru is the Rainbow Mountain or Vinicunca, as the locals like to call it. <br>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/peru/rainbowmountain/vinicunca.jpg)
 

@@ -19,9 +19,9 @@ The major benefit of renting a camper is that it covers your accommodation too, 
 Also, it was only the two of us(my husband and I) traveling, but we still rented a three-person van. Believe me, it was the best decision we made. Almost every camper we met along the road had so many space issues. Most of their vans were chaotically stuffed. The extra space saved so much of time, and it was super easy to operate inside the camper. Not to forget how comfortable it was to have all that extra space while sleeping. We met someone on one of the campsites; they described sleeping in a two-person camper as being completely mummified, with no space to move :)
 <br>
 <br>
-Wondering ring road to do clockwise or anticlockwise, [check this out](https://wayfaringuniverse.com/iceland/your-ultimate-guide-to-iceland#ringRoadClockwise){: .js-no-ajax}
+Wondering ring road to do clockwise or anticlockwise, [check this out](https://theoutdoorobserver.com/iceland/your-ultimate-guide-to-iceland#ringRoadClockwise){: .js-no-ajax}
 <br><br>
-If you are hitting the ring road, it would be wise to stock up all the grocery and other stuff in Reykjavik itself. *[Find out more about grocery shopping here](https://wayfaringuniverse.com/iceland/your-ultimate-guide-to-iceland#Grocery){: .js-no-ajax}*
+If you are hitting the ring road, it would be wise to stock up all the grocery and other stuff in Reykjavik itself. *[Find out more about grocery shopping here](https://theoutdoorobserver.com/iceland/your-ultimate-guide-to-iceland#Grocery){: .js-no-ajax}*
 
 <br><br>
 
@@ -34,7 +34,7 @@ If you are hitting the ring road, it would be wise to stock up all the grocery a
 
 <br/>
 
-Here is a breakdown of my Iceland Ring Road itinerary to help you plan yours. Also to plan, optimize, and save time on your journey check out the [Distances between major attractions in Iceland](https://wayfaringuniverse.com/iceland/iceland-distances-between-places) article.
+Here is a breakdown of my Iceland Ring Road itinerary to help you plan yours. Also to plan, optimize, and save time on your journey check out the [Distances between major attractions in Iceland](https://theoutdoorobserver.com/iceland/iceland-distances-between-places) article.
 <br><br><br>
 
 # DAY 1
